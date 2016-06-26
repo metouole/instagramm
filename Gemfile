@@ -37,8 +37,11 @@ gem 'devise', '~> 3.4.1'
 
 #use paperclip for adding images to our post
 gem 'paperclip', '~> 4.2.0'
-
+#this one is for helping us to show on one page the different pages
 gem 'masonry-rails', '~> 0.2.1'
+
+#this gem allow us to vote for the best image
+gem 'acts_as_votable', '~> 0.10.0'
 
 
 # Use ActiveModel has_secure_password

@@ -35,6 +35,10 @@ gem 'bootstrap-sass', '~> 3.2.0.2'
 #use of devise to implement the option of creating a user easily
 gem 'devise', '~> 3.4.1'
 
+#use paperclip for adding images to our post
+gem 'paperclip', '~> 4.2.0'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
